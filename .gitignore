@@ -1,0 +1,9 @@
+# Archivos y directorios que git debe ignorar (no dar seguimiento git)
+
+# ignorar la carpeta .vscode/ (carpeta de control del editor vscodium -visual studio code-) y todo su contenido: si un patron termina con la barra /, git ignorara todo su contenido.
+
+.vscode/
+
+# ignorar los archivos que sobrepasan los 100 megas permitidos para subir a GitHub.com
+#recursos/instalacion-del-ide-codeblocks-y-el-compilador.mp4
+#recursos/tutorial-PSeInt-psm-algoritmo-aritmeticaEnteraBasica.mp4
